@@ -17,4 +17,4 @@ The configuration of cloudtrail can refer to the article： https://docs.aws.ama
 scale command： 
 kubectl scale deployment deployment-nginx --replicas 40 -n namespace-nginx && date 
 
-also use cloudtrail to get the experence results.
+We also use cloudtrail to get the experence results.
