@@ -10,7 +10,7 @@ Prerequisites：
   3. Familiar with Kubernetes and basic cluster management concepts.
 
 
-Step：
+Steps：
   Step 1: Create an EKS cluster
 
   Step 2: Benchmark testing
